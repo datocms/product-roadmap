@@ -12,7 +12,7 @@ Jump to the [Roadmap project](https://github.com/datocms/product-roadmap/project
 
 If you are missing a feature or if you have an idea for additional functionality, please help us to improve by submitting an issue to this GitHub repository.
 
-Try following our template when opening a new [feature request](https://github.com/datocms/product-roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=)
+Try following our template when opening a new [feature request](https://github.com/datocms/product-roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
 
 ## Bug report
 
